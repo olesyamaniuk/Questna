@@ -1,5 +1,5 @@
 $(function () {
-  $(".u-g-how-lists").slick({
+  $(".u-m-library-lists").slick({
     infinite: true,
     slidesToShow: 1,
     slidesToScroll: 1,
@@ -10,7 +10,7 @@ $(function () {
 
     centerMode: true,
     cssEase: "linear",
-    prevArrow: ".u-g-how-lists-left",
-    nextArrow: ".u-g-how-lists-right",
+    prevArrow: ".u-m-library-list-left",
+    nextArrow: ".u-m-library-list-right",
   });
 });

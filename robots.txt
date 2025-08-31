@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /private/
 Allow: /
 
-Sitemap: https://elevana.space/sitemap.xml
+Sitemap: https://questna.online/sitemap.xml
